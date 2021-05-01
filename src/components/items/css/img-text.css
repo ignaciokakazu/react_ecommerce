@@ -1,0 +1,10 @@
+.imgAtras {
+	background-size:cover;
+}
+
+.textOferta {
+	position: 'absolute';
+    background-color:'white';
+    right:'0%';
+    padding:'12px';
+}
