@@ -2,7 +2,7 @@
 
 An e-commerce project made in React JS, Javascript, Bootstrap and CSS for educational purpouses
 
-Demo
+View a [Demo](https://loving-hugle-903a15.netlify.app/)
 
 ## Project Status
 
